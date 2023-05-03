@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  3 MAY 2023 19:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  3 MAY 2023 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,8 +1263,7 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
 (/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/tex/latex/txfonts/ot1tx
 r.fd
 File: ot1txr.fd 2000/12/15 v3.1
-)
-No file Assign_1.aux.
+) (./Assign_1.aux)
 \openout1 = `Assign_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 102.
@@ -1400,6 +1399,7 @@ LaTeX Info: Redefining \ohm on input line 102.
 Package gensymb Info: Using \textohm for \ohm on input line 102.
 Package gensymb Info: Using \textmu for \micro on input line 102.
 Package hyperref Info: Link coloring OFF on input line 102.
+ (./Assign_1.out) (./Assign_1.out)
 \@outlinefile=\write4
 \openout4 = `Assign_1.out'.
 
@@ -1457,18 +1457,12 @@ ap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/enc
 
 
 ] (./Assign_1.aux)
-
-Package rerunfilecheck Warning: File `Assign_1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Assign_1.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `Assign_1.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31193 strings out of 476025
- 627012 string characters out of 5780034
+ 31199 strings out of 476025
+ 627090 string characters out of 5780034
  1865388 words of memory out of 5000000
  51012 multiletter control sequences out of 15000+600000
  569544 words of font info for 145 fonts, out of 8000000 for 9000
