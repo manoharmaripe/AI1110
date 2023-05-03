@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  3 MAY 2023 17:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  3 MAY 2023 19:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1263,7 +1263,8 @@ LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
 (/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/tex/latex/txfonts/ot1tx
 r.fd
 File: ot1txr.fd 2000/12/15 v3.1
-) (./Assign_1.aux)
+)
+No file Assign_1.aux.
 \openout1 = `Assign_1.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 102.
@@ -1399,7 +1400,6 @@ LaTeX Info: Redefining \ohm on input line 102.
 Package gensymb Info: Using \textohm for \ohm on input line 102.
 Package gensymb Info: Using \textmu for \micro on input line 102.
 Package hyperref Info: Link coloring OFF on input line 102.
- (./Assign_1.out) (./Assign_1.out)
 \@outlinefile=\write4
 \openout4 = `Assign_1.out'.
 
@@ -1457,26 +1457,33 @@ ap/pdftex.map}{/opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/enc
 
 
 ] (./Assign_1.aux)
-Package rerunfilecheck Info: File `Assign_1.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `Assign_1.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Assign_1.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 31197 strings out of 476025
- 627066 string characters out of 5780034
- 1863388 words of memory out of 5000000
+ 31193 strings out of 476025
+ 627012 string characters out of 5780034
+ 1865388 words of memory out of 5000000
  51012 multiletter control sequences out of 15000+600000
  569544 words of font info for 145 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  101i,8n,96p,1176b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/type1/public/tx
 fonts/rtxr.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/ty
-pe1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dis
-t/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/20230313/share
-/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Assign_1.pdf (1 page, 40010 bytes).
+pe1/public/txfonts/txsy.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-
+dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20230313/sh
+are/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Cellar/texlive/2
+0230313/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Assign_1.pdf (1 page, 41728 bytes).
 PDF statistics:
- 44 PDF objects out of 1000 (max. 8388607)
- 32 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 51 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
